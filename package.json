@@ -1,0 +1,14 @@
+{
+  "name": "webrtc",
+  "author": "Michael Rhodes",
+  "version": "0.0.0",
+  "main": "main.js",
+  "browser": "browser.js",
+  "react-native": "react-native.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "electron-webrtc": "^0.3.0",
+    "react-native-webrtc": "^1.69.0",
+    "wrtc": "^0.3.5"
+  }
+}
